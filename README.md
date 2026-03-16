@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Aryan+Agarwal+👋;Full+Stack+Developer;MERN+%2B+Next.js+Developer;Realtime+Systems+Builder;Open+Source+Enthusiast;Future+GSoC+Contributor"/>
+</p>
 <h1 align="center">Hi there! 👋 I'm Aryan</h1>
 <h3 align="center">Full Stack Developer | MERN + Next.js | Realtime Systems</h3>
 
@@ -11,8 +14,32 @@
 
 🎓 Computer Science Student
 💻 Full Stack Developer
-🚀 Interested in Open Source & GSoC
+🚀 Interested in Open Source Contribution
 ⚡ Love building **real-time applications and developer tools**
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/dev-x-Aryan">
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aryan-agarwal-64a84b248/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="mailto:aryanagarwal1133@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+
+<a href="https://leetcode.com/u/Aryan_Agarwal">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40"/>
+</a>
+
+</p>
 
 ---
 
@@ -21,13 +48,19 @@
 <p align="left">
 
 <img src="https://skillicons.dev/icons?i=cpp" height="45"/>
+<img src="https://skillicons.dev/icons?i=java" height="45"/>
+<img src="https://skillicons.dev/icons?i=python" height="45"/>
 <img src="https://skillicons.dev/icons?i=js" height="45"/>
 <img src="https://skillicons.dev/icons?i=ts" height="45"/>
 <img src="https://skillicons.dev/icons?i=react" height="45"/>
 <img src="https://skillicons.dev/icons?i=nextjs" height="45"/>
 <img src="https://skillicons.dev/icons?i=nodejs" height="45"/>
+<img src="https://skillicons.dev/icons?i=express" height="45"/>
 <img src="https://skillicons.dev/icons?i=mongodb" height="45"/>
+<img src="https://skillicons.dev/icons?i=firebase" height="45"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
 <img src="https://skillicons.dev/icons?i=tailwind" height="45"/>
+<img src="https://skillicons.dev/icons?i=bootstrap" height="45"/>
 <img src="https://skillicons.dev/icons?i=spring" height="45"/>
 
 </p>
@@ -37,28 +70,6 @@
 <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white"/>
 
 </p>
-
----
-
-# 🚀 Featured Projects
-
-### 💰 CryptoVault
-
-Cryptocurrency information platform with real-time market data and news.
-
-🔗 https://github.com/dev-x-Aryan/CryptoVault
-
----
-
-### 💬 Real-Time Chat Application
-
-Chat platform using **MERN + Socket.io** with typing indicators and file sharing.
-
----
-
-### 👨‍💻 Real-Time Code Collaboration Tool
-
-A collaborative coding environment similar to **VSCode Live Share / CodeSandbox**.
 
 ---
 
