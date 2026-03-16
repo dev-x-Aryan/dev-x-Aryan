@@ -9,11 +9,12 @@
 
 # 👨‍💻 About Me
 
-🎓 Computer Science Student
-💻 Full Stack Developer
-🚀 Interested in Open Source Contribution
-⚡ Love building **real-time applications and developer tools**
-
+* 🎓 Computer Science Student
+* 💻 Full Stack Developer
+* 🚀 Open Source Enthusiast
+* ⚡ Love building **real-time applications and developer tools**
+* 🧠 DSA Enthusiast
+* 🎯 Goal: To build something that makes a real difference
 ---
 
 # 🌐 Connect With Me
