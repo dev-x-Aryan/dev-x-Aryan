@@ -1,6 +1,3 @@
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Aryan+Agarwal+👋;Full+Stack+Developer;MERN+%2B+Next.js+Developer;Realtime+Systems+Builder;Open+Source+Enthusiast;Future+GSoC+Contributor"/>
-</p>
 <h1 align="center">Hi there! 👋 I'm Aryan</h1>
 <h3 align="center">Full Stack Developer | MERN + Next.js | Realtime Systems</h3>
 
