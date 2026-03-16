@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Aryan</h1>
-<h3 align="center">Full Stack Developer | MERN + Next.js | Realtime Systems</h3>
+<h3 align="center">Full Stack Developer/h3>
 
 <p align="center">
 🚀 Passionate about building scalable web applications and real-time systems
